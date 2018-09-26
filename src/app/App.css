@@ -1,0 +1,37 @@
+.logo{
+  color:#fff;
+  font-size: 20pt;
+}
+.mainContent{
+  padding:10px; 
+  height: 100%;
+  min-height: 100vh;
+  background-color: #fff;
+  width: 100%;
+}
+.content-container{
+  padding:20px;
+  font-weight: 600;
+}
+.table-header{
+  background-color: #0073B7;
+  border-top: solid 4px #00C0EF;
+}
+.table-header th{
+  color: #fff;
+}
+.heading{
+  background-color:#324D61;
+  color:#fff;
+  padding:2px;
+  font-size: 18pt;
+}
+.plantSummary{
+  text-align: center;
+  border:1px solid #e7eef5c7;
+  background-color: rgb(238, 244, 248);
+  font-weight: 500;
+}
+.plantSummary p{
+  padding-bottom: 6px;
+}
